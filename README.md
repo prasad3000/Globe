@@ -12,8 +12,10 @@ For more details follow https://blog.acolyer.org/2016/04/22/glove-global-vectors
 
 ### Dependency
 
-#pytorch
-#torchtext
+pytorch
+
+
+torchtext
 
 ### Implimentation
 
